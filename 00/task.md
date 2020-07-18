@@ -1,3 +1,5 @@
+#THIS IS EDITED TASK
+
 # Zahřívací úloha
 
 V této úloze si vyzkoušíte základní funkce programovacího jazyka.
